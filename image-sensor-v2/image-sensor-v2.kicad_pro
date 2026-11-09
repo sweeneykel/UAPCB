@@ -459,9 +459,14 @@
         "filename": "led.kicad_sch",
         "name": "cavern_ilumination",
         "uuid": "f0b7e4d3-5bd2-4010-b651-9388bc56821c"
+      },
+      {
+        "filename": "on_off_switch.kicad_sch",
+        "name": "on_off_switch",
+        "uuid": "0e4d9688-f49e-4ffe-aad5-8ef5d1310979"
       }
     ],
-    "used_designators": "D1,#PWR1-30,#PWR33-38,U1,U3,C1-31,C33-36,B1,R1-4,R6-17,SOG25664B2_M1",
+    "used_designators": "D1,#PWR1-30,#PWR33-39,U1,U3,C1-31,C33-36,B1,R1-4,R6-17,SW1,SOG25664B2_M1",
     "variants": []
   },
   "sheets": [
@@ -492,6 +497,10 @@
     [
       "f0b7e4d3-5bd2-4010-b651-9388bc56821c",
       "cavern_ilumination"
+    ],
+    [
+      "0e4d9688-f49e-4ffe-aad5-8ef5d1310979",
+      "on_off_switch"
     ]
   ],
   "text_variables": {},
