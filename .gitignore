@@ -7,3 +7,6 @@ _autosave-*
 fp-info-cache
 # Ignore editor local history
 .history/
+# KiCad temporary lock files
+*.lck
+
