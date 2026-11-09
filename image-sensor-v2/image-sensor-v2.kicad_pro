@@ -432,6 +432,11 @@
         "filename": "mcu-v2.kicad_sch",
         "name": "MCU-v2",
         "uuid": "706b8d28-16fe-4e41-be38-9e44a9113fd4"
+      },
+      {
+        "filename": "dc-dc_converter.kicad_sch",
+        "name": "DC-DC_converter",
+        "uuid": "791d1cad-b51e-46dd-bcf7-6d7a8df12659"
       }
     ],
     "used_designators": "#PWR1-30,U1,C1-31,R1-4",
@@ -445,6 +450,10 @@
     [
       "706b8d28-16fe-4e41-be38-9e44a9113fd4",
       "MCU-v2"
+    ],
+    [
+      "791d1cad-b51e-46dd-bcf7-6d7a8df12659",
+      "DC-DC_converter"
     ]
   ],
   "text_variables": {},
