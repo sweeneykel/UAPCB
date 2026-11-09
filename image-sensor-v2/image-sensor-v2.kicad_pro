@@ -253,7 +253,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "ME691Library"
+    ]
   },
   "meta": {
     "filename": "image-sensor-v2.kicad_pro",
@@ -442,9 +444,19 @@
         "filename": "crystal_clock.kicad_sch",
         "name": "crystal_clock",
         "uuid": "f54dc6b3-9a4e-4495-b266-282408f2f508"
+      },
+      {
+        "filename": "rotary_encoder.kicad_sch",
+        "name": "rotary_encoder",
+        "uuid": "54bd8d4f-0c23-42c5-a688-7b9de0994eba"
+      },
+      {
+        "filename": "screen.kicad_sch",
+        "name": "screen",
+        "uuid": "0d0cce81-f33a-4d47-8788-12c3212e2d96"
       }
     ],
-    "used_designators": "#PWR1-30,U1,C1-31,R1-4",
+    "used_designators": "#PWR1-30,U1,U3,C1-31,B1,R1-4,SOG25664B2_M1",
     "variants": []
   },
   "sheets": [
@@ -463,6 +475,14 @@
     [
       "f54dc6b3-9a4e-4495-b266-282408f2f508",
       "crystal_clock"
+    ],
+    [
+      "54bd8d4f-0c23-42c5-a688-7b9de0994eba",
+      "rotary_encoder"
+    ],
+    [
+      "0d0cce81-f33a-4d47-8788-12c3212e2d96",
+      "screen"
     ]
   ],
   "text_variables": {},
