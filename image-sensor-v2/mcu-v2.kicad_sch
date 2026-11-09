@@ -5597,6 +5597,12 @@
 			(uuid "c782b3e7-9f3d-49a9-bff6-5ff789a1d428")
 		)
 		(instances
+			(project "image-sensor-v2"
+				(path "/706b8d28-16fe-4e41-be38-9e44a9113fd4"
+					(reference "U2")
+					(unit 1)
+				)
+			)
 			(project "mcu-v2"
 				(path "/d6ce408f-1bc2-4772-9a7d-f0fea5101517"
 					(reference "U2")
@@ -5760,6 +5766,12 @@
 			(uuid "de450736-c641-4f8d-815e-a512a493d20b")
 		)
 		(instances
+			(project "image-sensor-v2"
+				(path "/706b8d28-16fe-4e41-be38-9e44a9113fd4"
+					(reference "R5")
+					(unit 1)
+				)
+			)
 			(project "mcu-v2"
 				(path "/d6ce408f-1bc2-4772-9a7d-f0fea5101517"
 					(reference "R5")
@@ -7121,6 +7133,12 @@
 			(uuid "1cd14b2c-41ee-4110-8474-c49a21df9799")
 		)
 		(instances
+			(project "image-sensor-v2"
+				(path "/706b8d28-16fe-4e41-be38-9e44a9113fd4"
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
 			(project "mcu-v2"
 				(path "/d6ce408f-1bc2-4772-9a7d-f0fea5101517"
 					(reference "#PWR031")
@@ -8827,6 +8845,12 @@
 			(uuid "7cfaad8c-006c-4e22-acd4-f757e60fb222")
 		)
 		(instances
+			(project "image-sensor-v2"
+				(path "/706b8d28-16fe-4e41-be38-9e44a9113fd4"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
 			(project "mcu-v2"
 				(path "/d6ce408f-1bc2-4772-9a7d-f0fea5101517"
 					(reference "#PWR032")
@@ -10018,6 +10042,12 @@
 			(uuid "a396a5ff-d19e-4804-8bbb-f970200ab6ce")
 		)
 		(instances
+			(project "image-sensor-v2"
+				(path "/706b8d28-16fe-4e41-be38-9e44a9113fd4"
+					(reference "C32")
+					(unit 1)
+				)
+			)
 			(project "mcu-v2"
 				(path "/d6ce408f-1bc2-4772-9a7d-f0fea5101517"
 					(reference "C32")
@@ -10892,5 +10922,4 @@
 			(page "2")
 		)
 	)
-	(embedded_fonts no)
 )

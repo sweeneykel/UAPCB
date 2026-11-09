@@ -1156,6 +1156,12 @@
 					(unit 1)
 				)
 			)
+			(project "image-sensor-v2"
+				(path "/791d1cad-b51e-46dd-bcf7-6d7a8df12659"
+					(reference "C15")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1231,6 +1237,12 @@
 		(instances
 			(project "dc-dc_converter"
 				(path "/606032b4-bec0-461b-ae90-fa30c1d1d00a"
+					(reference "L2")
+					(unit 1)
+				)
+			)
+			(project "image-sensor-v2"
+				(path "/791d1cad-b51e-46dd-bcf7-6d7a8df12659"
 					(reference "L2")
 					(unit 1)
 				)
@@ -1326,6 +1338,12 @@
 					(unit 1)
 				)
 			)
+			(project "image-sensor-v2"
+				(path "/791d1cad-b51e-46dd-bcf7-6d7a8df12659"
+					(reference "U1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1400,6 +1418,12 @@
 		(instances
 			(project "dc-dc_converter"
 				(path "/606032b4-bec0-461b-ae90-fa30c1d1d00a"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+			(project "image-sensor-v2"
+				(path "/791d1cad-b51e-46dd-bcf7-6d7a8df12659"
 					(reference "#PWR03")
 					(unit 1)
 				)
@@ -1483,6 +1507,12 @@
 					(unit 1)
 				)
 			)
+			(project "image-sensor-v2"
+				(path "/791d1cad-b51e-46dd-bcf7-6d7a8df12659"
+					(reference "R4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1561,6 +1591,12 @@
 					(unit 1)
 				)
 			)
+			(project "image-sensor-v2"
+				(path "/791d1cad-b51e-46dd-bcf7-6d7a8df12659"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1635,6 +1671,12 @@
 		(instances
 			(project "dc-dc_converter"
 				(path "/606032b4-bec0-461b-ae90-fa30c1d1d00a"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+			(project "image-sensor-v2"
+				(path "/791d1cad-b51e-46dd-bcf7-6d7a8df12659"
 					(reference "#PWR01")
 					(unit 1)
 				)
@@ -1720,6 +1762,12 @@
 					(unit 1)
 				)
 			)
+			(project "image-sensor-v2"
+				(path "/791d1cad-b51e-46dd-bcf7-6d7a8df12659"
+					(reference "C17")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1801,6 +1849,12 @@
 					(unit 1)
 				)
 			)
+			(project "image-sensor-v2"
+				(path "/791d1cad-b51e-46dd-bcf7-6d7a8df12659"
+					(reference "C16")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1875,6 +1929,12 @@
 		(instances
 			(project "dc-dc_converter"
 				(path "/606032b4-bec0-461b-ae90-fa30c1d1d00a"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+			(project "image-sensor-v2"
+				(path "/791d1cad-b51e-46dd-bcf7-6d7a8df12659"
 					(reference "#PWR02")
 					(unit 1)
 				)
@@ -1958,6 +2018,12 @@
 					(unit 1)
 				)
 			)
+			(project "image-sensor-v2"
+				(path "/791d1cad-b51e-46dd-bcf7-6d7a8df12659"
+					(reference "R3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(sheet_instances
@@ -1965,5 +2031,4 @@
 			(page "3")
 		)
 	)
-	(embedded_fonts no)
 )

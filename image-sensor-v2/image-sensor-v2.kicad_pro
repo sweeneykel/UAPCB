@@ -437,6 +437,11 @@
         "filename": "dc-dc_converter.kicad_sch",
         "name": "DC-DC_converter",
         "uuid": "791d1cad-b51e-46dd-bcf7-6d7a8df12659"
+      },
+      {
+        "filename": "crystal_clock.kicad_sch",
+        "name": "crystal_clock",
+        "uuid": "f54dc6b3-9a4e-4495-b266-282408f2f508"
       }
     ],
     "used_designators": "#PWR1-30,U1,C1-31,R1-4",
@@ -454,6 +459,10 @@
     [
       "791d1cad-b51e-46dd-bcf7-6d7a8df12659",
       "DC-DC_converter"
+    ],
+    [
+      "f54dc6b3-9a4e-4495-b266-282408f2f508",
+      "crystal_clock"
     ]
   ],
   "text_variables": {},
