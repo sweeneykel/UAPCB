@@ -4,7 +4,277 @@
 	(generator_version "10.0")
 	(uuid "2cbefd8b-da2a-4cee-8812-0e0669630bab")
 	(paper "A4")
-	(lib_symbols)
+	(lib_symbols
+		(symbol "ME691Library:SOG25664B2_M312"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SOG25664B2_M312"
+				(at 56.642 24.384 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.surenoo.com/products/19701002?utm_source=chatgpt.com&variant_sku_code=19701002-15533124-76246880-15533125-76246881-15540847-76246885"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Surenoo Graphic OLED Module 3.12\" 25664 256*64 256X64 Graphic LCD Module Display Screen Panel PM-OLED 6800/8080 8-Bit Parallel 3-/4- Wire Serial SPI IIC I2C SSD1362 Controller SOG25664B2_M312 P312"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "OLED"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SOG25664B2_M312_0_1"
+				(rectangle
+					(start 0 0)
+					(end 45.72 31.75)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SOG25664B2_M312_1_1"
+				(pin input line
+					(at -2.54 22.86 0)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -2.54 16.51 0)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -2.54 8.89 0)
+					(length 2.54)
+					(name "RES"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 21.59 34.29 270)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 22.86 -2.54 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(symbol
+		(lib_id "ME691Library:SOG25664B2_M312")
+		(at 104.14 100.33 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9e9d9f43-7ea0-4185-8f5a-e8b09f8015a7")
+		(property "Reference" "SOG25664B2_M1"
+			(at 151.13 84.4549 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" ""
+			(at 104.14 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Display:ER_OLEDM0.91_1x-I2C"
+			(at 104.14 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.surenoo.com/products/19701002?utm_source=chatgpt.com&variant_sku_code=19701002-15533124-76246880-15533125-76246881-15540847-76246885"
+			(at 104.14 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Surenoo Graphic OLED Module 3.12\" 25664 256*64 256X64 Graphic LCD Module Display Screen Panel PM-OLED 6800/8080 8-Bit Parallel 3-/4- Wire Serial SPI IIC I2C SSD1362 Controller SOG25664B2_M312 P312"
+			(at 104.14 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "0e4ddb28-0e69-45f8-8564-9b28fe1c0d01")
+		)
+		(pin ""
+			(uuid "720d9bef-eecf-4d12-9dde-a5f26146da32")
+		)
+		(pin ""
+			(uuid "141aeacb-a667-4e13-a72c-e21414a5d7f6")
+		)
+		(pin ""
+			(uuid "fde820ff-c7ea-4d47-9878-476a0d0b9e12")
+		)
+		(pin ""
+			(uuid "a83b80ef-12c9-4550-96de-c0160d1b331e")
+		)
+		(instances
+			(project "image-sensor-v2"
+				(path "/0d0cce81-f33a-4d47-8788-12c3212e2d96"
+					(reference "SOG25664B2_M1")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "6")
