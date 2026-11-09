@@ -454,9 +454,14 @@
         "filename": "screen.kicad_sch",
         "name": "screen",
         "uuid": "0d0cce81-f33a-4d47-8788-12c3212e2d96"
+      },
+      {
+        "filename": "led.kicad_sch",
+        "name": "cavern_ilumination",
+        "uuid": "f0b7e4d3-5bd2-4010-b651-9388bc56821c"
       }
     ],
-    "used_designators": "#PWR1-30,#PWR33-37,U1,U3,C1-31,C33-36,B1,R1-4,R6-16,SOG25664B2_M1",
+    "used_designators": "D1,#PWR1-30,#PWR33-38,U1,U3,C1-31,C33-36,B1,R1-4,R6-17,SOG25664B2_M1",
     "variants": []
   },
   "sheets": [
@@ -483,6 +488,10 @@
     [
       "0d0cce81-f33a-4d47-8788-12c3212e2d96",
       "screen"
+    ],
+    [
+      "f0b7e4d3-5bd2-4010-b651-9388bc56821c",
+      "cavern_ilumination"
     ]
   ],
   "text_variables": {},
