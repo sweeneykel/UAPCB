@@ -4429,7 +4429,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://Crystal Clock.pdf"
+		(property "Datasheet" "kicad-embed://crystal.pdf"
 			(at 86.36 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -4440,7 +4440,7 @@
 				)
 			)
 		)
-		(property "Description" "Four pin crystal, GND on pins 2 and 4"
+		(property "Description" "Four pin crystal, GND on pins 2 and 4, 40 MHz ±10ppm Crystal 12pF 50 Ohms 4-SMD, No Lead"
 			(at 86.36 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -4466,6 +4466,50 @@
 			(at 86.36 86.36 0)
 			(hide yes)
 			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 86.36 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "490-XRCGB40M000F1S2BR0CT-ND"
+			(at 86.36 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "XRCGB40M000F1S2BR0"
+			(at 86.36 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "0.219"
+			(at 86.36 71.12 0)
+			(hide yes)
+			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font

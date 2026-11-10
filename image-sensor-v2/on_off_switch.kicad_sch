@@ -290,7 +290,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_DPST_x2"
+		(property "Value" ""
 			(at 107.95 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -300,7 +300,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_NKK_GW12LJP"
+		(property "Footprint" ""
 			(at 107.95 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -311,7 +311,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://onoffswitch.pdf"
 			(at 107.95 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -322,7 +322,51 @@
 				)
 			)
 		)
-		(property "Description" "Single Pole Single Throw (SPST) switch, separate symbol"
+		(property "Description" "Rocker Switch SPST 10A (AC) 125 V Panel Mount, Snap-In"
+			(at 107.95 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "Digikey"
+			(at 107.95 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "EG5619-ND"
+			(at 107.95 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "RA1113112R"
+			(at 107.95 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "0.46"
 			(at 107.95 96.52 0)
 			(hide yes)
 			(show_name no)

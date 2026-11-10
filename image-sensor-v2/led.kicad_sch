@@ -579,7 +579,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://HB-C513A-WSN-WSS-MSN-MSS.pdf"
 			(at 132.08 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -590,7 +590,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED WARM WHITE CLEAR 5MM T/H"
 			(at 132.08 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -602,6 +602,50 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 132.08 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "C513A-MSS-CX0Z0231-ND"
+			(at 132.08 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "C513A-MSS-CX0Z0231"
+			(at 132.08 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "0.25"
 			(at 132.08 59.69 0)
 			(hide yes)
 			(show_name no)

@@ -521,7 +521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e9d9f43-7ea0-4185-8f5a-e8b09f8015a7")
-		(property "Reference" "SOG25664B2_M1"
+		(property "Reference" "S1"
 			(at 151.13 84.4549 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -543,7 +543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display:ER_OLEDM0.91_1x-I2C"
+		(property "Footprint" ""
 			(at 104.14 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -576,6 +576,50 @@
 				)
 			)
 		)
+		(property "Supplier" "Surenoo"
+			(at 104.14 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "SOG25664B2_M312-5P PM-OLED Display Module"
+			(at 104.14 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "SOG25664B2_M312-5P PM-OLED Display Module"
+			(at 104.14 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "20"
+			(at 104.14 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin ""
 			(uuid "0e4ddb28-0e69-45f8-8564-9b28fe1c0d01")
 		)
@@ -594,7 +638,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/0d0cce81-f33a-4d47-8788-12c3212e2d96"
-					(reference "SOG25664B2_M1")
+					(reference "S1")
 					(unit 1)
 				)
 			)
