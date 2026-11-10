@@ -494,7 +494,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "S"
-			(at 0 0 0)
+			(at 34.036 29.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -504,7 +504,7 @@
 			)
 		)
 		(property "Value" "Image Sensor"
-			(at 0 0 0)
+			(at 40.132 27.178 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -559,8 +559,8 @@
 		)
 		(symbol "ImageSensor_0_1"
 			(rectangle
-				(start 8.89 0)
-				(end 0 5.08)
+				(start 0 24.13)
+				(end 31.75 0)
 				(stroke
 					(width 0)
 					(type default)
@@ -571,10 +571,226 @@
 			)
 		)
 		(symbol "ImageSensor_1_1"
-			(pin output line
-				(at 10.16 2.54 180)
+			(pin input line
+				(at -2.54 21.59 0)
 				(length 2.54)
-				(name "PLACEHOLDER"
+				(name "CLK+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 19.05 0)
+				(length 2.54)
+				(name "CLK-"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 16.51 0)
+				(length 2.54)
+				(name "RES"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 13.97 0)
+				(length 2.54)
+				(name "SCL"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -2.54 11.43 0)
+				(length 2.54)
+				(name "SDA"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -2.54 8.89 0)
+				(length 2.54)
+				(name "GPIO_0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -2.54 6.35 0)
+				(length 2.54)
+				(name "GPIO_1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 3.81 0)
+				(length 2.54)
+				(name "GPIO_2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 1.27 0)
+				(length 2.54)
+				(name "GPIO_3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 15.24 26.67 270)
+				(length 2.54)
+				(name "PWR"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 16.51 -2.54 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 34.29 15.24 180)
+				(length 2.54)
+				(name "DATA+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 34.29 12.7 180)
+				(length 2.54)
+				(name "DATA-"
 					(effects
 						(font
 							(size 1.27 1.27)
