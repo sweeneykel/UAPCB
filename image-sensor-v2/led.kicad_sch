@@ -498,6 +498,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 59.69) (xy 148.59 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "909a914a-ed4f-4bd7-9554-e7985151a036")
+	)
+	(wire
+		(pts
 			(xy 105.41 54.61) (xy 105.41 59.69)
 		)
 		(stroke
@@ -525,84 +535,6 @@
 			(justify left bottom)
 		)
 		(uuid "850a2772-da5d-4ac9-9cb0-08634d573882")
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 148.59 59.69 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "431e3f0d-d3dc-4263-bd32-93b8ddaae87a")
-		(property "Reference" "#PWR038"
-			(at 148.59 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 148.59 64.77 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 148.59 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 148.59 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 148.59 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5799c148-2cc5-40f0-a46d-898c7d07db0e")
-		)
-		(instances
-			(project "image-sensor-v2"
-				(path "/f0b7e4d3-5bd2-4010-b651-9388bc56821c"
-					(reference "#PWR038")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Device:LED")
@@ -716,7 +648,7 @@
 				)
 			)
 		)
-		(property "Value" "10 kΩ"
+		(property "Value" "220 Ω"
 			(at 113.03 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -769,6 +701,84 @@
 			(project "image-sensor-v2"
 				(path "/f0b7e4d3-5bd2-4010-b651-9388bc56821c"
 					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 148.59 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3c3b5c1-1e4c-43de-86c8-74cac57f710f")
+		(property "Reference" "#PWR034"
+			(at 148.59 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 148.59 72.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 148.59 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e246947c-5608-4a97-b270-865bd8f4c0b0")
+		)
+		(instances
+			(project "image-sensor-v2"
+				(path "/f0b7e4d3-5bd2-4010-b651-9388bc56821c"
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)

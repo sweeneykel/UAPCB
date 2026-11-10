@@ -869,6 +869,16 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 54.61) (xy 151.13 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e254b69-19dc-452c-aa85-c5c2b3574764")
+	)
+	(wire
+		(pts
 			(xy 158.75 71.12) (xy 158.75 62.23)
 		)
 		(stroke
@@ -1009,16 +1019,6 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 54.61) (xy 151.13 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd5fe4a7-143d-482e-9a69-cfd41c1b4280")
-	)
-	(wire
-		(pts
 			(xy 191.77 52.07) (xy 199.39 52.07)
 		)
 		(stroke
@@ -1067,15 +1067,29 @@
 		)
 		(uuid "a0ab18b2-9c55-470b-8573-4006809be073")
 	)
-	(label "EN_DCDC"
-		(at 138.43 54.61 0)
+	(global_label "EN_DCDC"
+		(shape input)
+		(at 140.97 54.61 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
-		(uuid "aa5d76f7-5ad4-4848-b8e3-106f4292cda2")
+		(uuid "3caf85fb-fe4f-4fe6-94cc-8522fe619543")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 140.97 66.1223 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")

@@ -697,9 +697,14 @@
         "filename": "on_off_switch.kicad_sch",
         "name": "on_off_switch",
         "uuid": "0e4d9688-f49e-4ffe-aad5-8ef5d1310979"
+      },
+      {
+        "filename": "image_device.kicad_sch",
+        "name": "image_record",
+        "uuid": "c547b6f2-582a-49cc-9387-e71aea70b6ff"
       }
     ],
-    "used_designators": "D1,#PWR1-30,#PWR33-39,U1,U3,C1-31,C33-36,B1,R1-4,R6-17,SW1,SOG25664B2_M1",
+    "used_designators": "#PWR1-30,#PWR33-42,D1,U1,U3,C1-31,C33-39,R1-4,R6-25,B1-2,SOG25664B2_M1,SW1",
     "variants": []
   },
   "sheets": [
@@ -734,6 +739,10 @@
     [
       "0e4d9688-f49e-4ffe-aad5-8ef5d1310979",
       "on_off_switch"
+    ],
+    [
+      "c547b6f2-582a-49cc-9387-e71aea70b6ff",
+      "image_record"
     ]
   ],
   "text_variables": {},
