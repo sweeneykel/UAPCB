@@ -241,7 +241,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -791,7 +791,7 @@
         "uuid": "c547b6f2-582a-49cc-9387-e71aea70b6ff"
       }
     ],
-    "used_designators": "#PWR1-30,#PWR33-42,D1,U1,U3,C1-31,C33-39,R1-4,R6-25,B1-2,SOG25664B2_M1,SW1",
+    "used_designators": "#PWR1-30,#PWR33-42,D1,U1,U3,C1-31,C33-39,R1-4,R6-25,B1-2,SOG25664B2_M1,SW1,S2",
     "variants": []
   },
   "sheets": [

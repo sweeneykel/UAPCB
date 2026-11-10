@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "7ac982c4-8330-4930-b43b-8420ceba7c98")
 	(paper "A4")
+	(title_block
+		(title "Urine Analysis")
+		(date "2026-11-10")
+		(rev "1.0")
+		(company "Rhea, Sarah, Peyton and Kelsey")
+	)
 	(lib_symbols
 		(symbol "Device:LED"
 			(pin_numbers
