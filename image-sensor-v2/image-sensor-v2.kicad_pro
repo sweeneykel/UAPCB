@@ -789,9 +789,14 @@
         "filename": "image_device.kicad_sch",
         "name": "image_record",
         "uuid": "c547b6f2-582a-49cc-9387-e71aea70b6ff"
+      },
+      {
+        "filename": "flash_memory.kicad_sch",
+        "name": "flash_memory",
+        "uuid": "1984bcd8-aef8-44a9-a37a-abb8414d1eae"
       }
     ],
-    "used_designators": "#PWR1-30,#PWR33-42,D1,U1,U3,C1-31,C33-39,R1-4,R6-25,B1-2,SOG25664B2_M1,SW1,S2-3",
+    "used_designators": "#PWR1-30,#PWR32-43,D1,U1-3,C1-31,C33-39,R1-4,R6-26,B1-2,SOG25664B2_M1,SW1,S2-3,L3,Q1",
     "variants": []
   },
   "sheets": [
@@ -830,6 +835,10 @@
     [
       "c547b6f2-582a-49cc-9387-e71aea70b6ff",
       "image_record"
+    ],
+    [
+      "1984bcd8-aef8-44a9-a37a-abb8414d1eae",
+      "flash_memory"
     ]
   ],
   "text_variables": {},

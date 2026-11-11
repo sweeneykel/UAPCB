@@ -366,6 +366,283 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Transistor_FET_Other:Q_NMOS_Depletion_DGS"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "Q_NMOS_Depletion_DGS"
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Depletion-mode N-channel MOSFET, drain/gate/source"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "NMOS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Q_NMOS_Depletion_DGS_0_1"
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Q_NMOS_Depletion_DGS_1_1"
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -484,67 +761,105 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 59.69) (xy 148.59 59.69)
+			(xy 119.38 69.85) (xy 119.38 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "311a63f2-58ff-49ee-9bd5-cb62ef67d5e2")
+		(uuid "61c24e22-683b-4d7d-a77f-d6420381892a")
 	)
 	(wire
 		(pts
-			(xy 105.41 59.69) (xy 113.03 59.69)
+			(xy 119.38 83.82) (xy 119.38 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5078e63c-f6e6-43ef-af3d-d51347c071f6")
+		(uuid "ab0245d3-d5c4-430c-851b-9e3120f33254")
 	)
 	(wire
 		(pts
-			(xy 148.59 59.69) (xy 148.59 67.31)
+			(xy 119.38 46.99) (xy 119.38 53.34)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "909a914a-ed4f-4bd7-9554-e7985151a036")
+		(uuid "ab2d77f3-c575-41e5-b05f-2ace28f36649")
 	)
 	(wire
 		(pts
-			(xy 105.41 54.61) (xy 105.41 59.69)
+			(xy 101.6 78.74) (xy 111.76 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "92381a94-a64d-49aa-b8a6-792977d3279c")
+		(uuid "b93bf345-e060-428c-819a-75c8b599a939")
 	)
 	(wire
 		(pts
-			(xy 118.11 59.69) (xy 128.27 59.69)
+			(xy 119.38 58.42) (xy 119.38 62.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e0f7c145-048d-4d0e-b91b-5d8698222ed4")
+		(uuid "c782d200-6239-4474-89f3-f93c7f2b03a1")
 	)
-	(label "3V3"
-		(at 105.41 54.61 0)
+	(global_label "ESP_3V3"
+		(shape input)
+		(at 119.38 46.99 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "850a2772-da5d-4ac9-9cb0-08634d573882")
+		(uuid "41b2a0be-5ed2-4d69-a850-04f4a113fbdb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 130.4689 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO_14"
+		(shape input)
+		(at 101.6 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4315ceee-cbf8-4c17-89da-2fef7b0543eb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.7529 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 132.08 59.69 180)
+		(at 119.38 66.04 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -555,27 +870,29 @@
 		(fields_autoplaced yes)
 		(uuid "4d448c54-af5e-499b-9f1d-4d8d5b0b8b67")
 		(property "Reference" "D1"
-			(at 133.6675 52.07 0)
+			(at 123.19 66.3574 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "LED"
-			(at 133.6675 54.61 0)
+			(at 123.19 68.8974 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 59.69 0)
+			(at 119.38 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -586,7 +903,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://HB-C513A-WSN-WSS-MSN-MSS.pdf"
-			(at 132.08 59.69 0)
+			(at 119.38 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -597,7 +914,7 @@
 			)
 		)
 		(property "Description" "LED WARM WHITE CLEAR 5MM T/H"
-			(at 132.08 59.69 0)
+			(at 119.38 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -608,7 +925,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 132.08 59.69 0)
+			(at 119.38 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -619,7 +936,7 @@
 			)
 		)
 		(property "Supplier" "DigiKey"
-			(at 132.08 59.69 0)
+			(at 119.38 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -630,7 +947,7 @@
 			)
 		)
 		(property "Supplier_No" "C513A-MSS-CX0Z0231-ND"
-			(at 132.08 59.69 0)
+			(at 119.38 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -641,7 +958,7 @@
 			)
 		)
 		(property "Mfg_No" "C513A-MSS-CX0Z0231"
-			(at 132.08 59.69 0)
+			(at 119.38 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -652,7 +969,7 @@
 			)
 		)
 		(property "Unit_Cost" "0.25"
-			(at 132.08 59.69 0)
+			(at 119.38 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -679,7 +996,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 115.57 59.69 90)
+		(at 119.38 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -689,7 +1006,7 @@
 		(dnp no)
 		(uuid "6b8c1799-bc8f-4828-ba1a-dc65138c99dc")
 		(property "Reference" "R17"
-			(at 118.11 60.96 90)
+			(at 118.11 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -699,7 +1016,7 @@
 			)
 		)
 		(property "Value" "220 Ω"
-			(at 113.03 60.96 90)
+			(at 118.11 53.34 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -709,7 +1026,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 59.69 0)
+			(at 119.38 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -720,7 +1037,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 59.69 0)
+			(at 119.38 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -731,7 +1048,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 115.57 59.69 0)
+			(at 119.38 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -757,8 +1074,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 148.59 67.31 0)
+		(lib_id "Transistor_FET_Other:Q_NMOS_Depletion_DGS")
+		(at 116.84 78.74 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -767,30 +1084,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f3c3b5c1-1e4c-43de-86c8-74cac57f710f")
-		(property "Reference" "#PWR034"
-			(at 148.59 73.66 0)
-			(hide yes)
+		(uuid "838048d2-c2c5-4ce5-b807-311b46008c51")
+		(property "Reference" "Q1"
+			(at 123.19 77.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "GND"
-			(at 148.59 72.39 0)
+		(property "Value" "Q_NMOS_Depletion_DGS"
+			(at 123.19 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 148.59 67.31 0)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 116.84 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -801,7 +1119,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 67.31 0)
+			(at 116.84 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -811,8 +1129,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 148.59 67.31 0)
+		(property "Description" "Depletion-mode N-channel MOSFET, drain/gate/source"
+			(at 116.84 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -823,12 +1141,96 @@
 			)
 		)
 		(pin "1"
-			(uuid "e246947c-5608-4a97-b270-865bd8f4c0b0")
+			(uuid "9cf27fdf-bfff-4a6f-8dea-299d35c798fe")
+		)
+		(pin "2"
+			(uuid "82ccfedb-c0ef-4a8e-aa49-311372daf5f1")
+		)
+		(pin "3"
+			(uuid "011cea8c-2e33-4613-80fd-df28c7e767d8")
 		)
 		(instances
 			(project "image-sensor-v2"
 				(path "/f0b7e4d3-5bd2-4010-b651-9388bc56821c"
-					(reference "#PWR034")
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 119.38 90.17 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b342d99f-a749-4b0e-81ad-200a9ec98df6")
+		(property "Reference" "#PWR042"
+			(at 119.38 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 119.38 95.25 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.38 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 119.38 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fa2683c1-8178-4065-9925-dba8ed116bc4")
+		)
+		(instances
+			(project "image-sensor-v2"
+				(path "/f0b7e4d3-5bd2-4010-b651-9388bc56821c"
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
