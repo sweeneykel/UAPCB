@@ -39296,6 +39296,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu-v2"
+				(path "/d6ce408f-1bc2-4772-9a7d-f0fea5101517"
+					(reference "R8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -40662,6 +40668,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu-v2"
+				(path "/d6ce408f-1bc2-4772-9a7d-f0fea5101517"
+					(reference "R9")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -41173,6 +41185,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu-v2"
+				(path "/d6ce408f-1bc2-4772-9a7d-f0fea5101517"
+					(reference "R7")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -41419,6 +41437,12 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/706b8d28-16fe-4e41-be38-9e44a9113fd4"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+			(project "mcu-v2"
+				(path "/d6ce408f-1bc2-4772-9a7d-f0fea5101517"
 					(reference "R6")
 					(unit 1)
 				)

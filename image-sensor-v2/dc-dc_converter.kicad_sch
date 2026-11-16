@@ -2397,10 +2397,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3cb0cb05-a61f-4b64-83ca-8234b579a20f")
 		(property "Reference" "S3"
-			(at 143.1133 59.69 0)
+			(at 144.526 56.388 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2410,8 +2409,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
-			(at 132.08 77.47 0)
+		(property "Value" "TLV62569DBVR"
+			(at 151.13 59.182 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2431,7 +2430,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://tlv62569 (1).pdf"
 			(at 132.08 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -2442,7 +2441,51 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Buck Switching Regulator IC Positive Adjustable 0.6V Output 2A SC-74A, SOT-753"
+			(at 132.08 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 132.08 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "296-47360-1-ND"
+			(at 132.08 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "TLV62569DBVR"
+			(at 132.08 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" " $0.12548"
 			(at 132.08 77.47 0)
 			(hide yes)
 			(show_name no)
