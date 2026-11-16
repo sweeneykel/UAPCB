@@ -3996,6 +3996,12 @@
 					(unit 1)
 				)
 			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4107,6 +4113,72 @@
 				)
 			)
 		)
+		(property "DigiKeyNo" ""
+			(at 96.52 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" ""
+			(at 96.52 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MouserNo" ""
+			(at 96.52 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 96.52 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 96.52 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Detailed Description" ""
+			(at 96.52 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "46790bf8-89b1-4f56-a2a7-b8b957453128")
 		)
@@ -4134,6 +4206,12 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/54bd8d4f-0c23-42c5-a688-7b9de0994eba"
+					(reference "B1")
+					(unit 1)
+				)
+			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
 					(reference "B1")
 					(unit 1)
 				)
@@ -4182,7 +4260,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://PYU-RC_GROUP_51_ROHS_L (1).pdf"
 			(at 77.47 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -4204,6 +4282,112 @@
 				)
 			)
 		)
+		(property "DigiKeyNo" ""
+			(at 77.47 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" ""
+			(at 77.47 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MouserNo" ""
+			(at 77.47 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 77.47 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 77.47 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Detailed Description" ""
+			(at 77.47 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "RC0402FR-0710KL"
+			(at 77.47 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 77.47 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "311-10.0KLRCT-ND"
+			(at 77.47 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "$0.00688"
+			(at 77.47 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2b1a3093-cb29-49f1-a09d-739049cb394a")
 		)
@@ -4213,6 +4397,12 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/54bd8d4f-0c23-42c5-a688-7b9de0994eba"
+					(reference "R32")
+					(unit 1)
+				)
+			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
 					(reference "R32")
 					(unit 1)
 				)
@@ -4261,7 +4451,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://PYU-RC_GROUP_51_ROHS_L (1).pdf"
 			(at 151.13 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -4283,6 +4473,112 @@
 				)
 			)
 		)
+		(property "DigiKeyNo" ""
+			(at 151.13 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" ""
+			(at 151.13 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MouserNo" ""
+			(at 151.13 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 151.13 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 151.13 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Detailed Description" ""
+			(at 151.13 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "RC0402FR-0710KL"
+			(at 151.13 93.98 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 151.13 93.98 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "311-10.0KLRCT-ND"
+			(at 151.13 93.98 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "$0.00688"
+			(at 151.13 93.98 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8137df8a-4c23-4f23-be82-e9f42c467ef9")
 		)
@@ -4292,6 +4588,12 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/54bd8d4f-0c23-42c5-a688-7b9de0994eba"
+					(reference "R28")
+					(unit 1)
+				)
+			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
 					(reference "R28")
 					(unit 1)
 				)
@@ -4340,7 +4642,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://PYU-RC_GROUP_51_ROHS_L (1).pdf"
 			(at 77.47 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -4362,6 +4664,112 @@
 				)
 			)
 		)
+		(property "DigiKeyNo" ""
+			(at 77.47 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" ""
+			(at 77.47 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MouserNo" ""
+			(at 77.47 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 77.47 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 77.47 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Detailed Description" ""
+			(at 77.47 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "RC0402FR-0710KL"
+			(at 77.47 106.68 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 77.47 106.68 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "311-10.0KLRCT-ND"
+			(at 77.47 106.68 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "$0.00688"
+			(at 77.47 106.68 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "61a7d227-1806-4d6f-971a-f2240760f381")
 		)
@@ -4371,6 +4779,12 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/54bd8d4f-0c23-42c5-a688-7b9de0994eba"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
 					(reference "R34")
 					(unit 1)
 				)
@@ -4493,6 +4907,12 @@
 					(unit 1)
 				)
 			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
+					(reference "#PWR046")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4537,7 +4957,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://PYU-RC_GROUP_51_ROHS_L (1).pdf"
 			(at 138.43 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -4559,6 +4979,112 @@
 				)
 			)
 		)
+		(property "DigiKeyNo" ""
+			(at 138.43 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" ""
+			(at 138.43 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MouserNo" ""
+			(at 138.43 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 138.43 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 138.43 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Detailed Description" ""
+			(at 138.43 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "RC0402FR-0710KL"
+			(at 138.43 121.92 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 138.43 121.92 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "311-10.0KLRCT-ND"
+			(at 138.43 121.92 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "$0.00688"
+			(at 138.43 121.92 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fe9f64fb-140c-4b5d-8765-3adaf7ea876a")
 		)
@@ -4568,6 +5094,12 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/54bd8d4f-0c23-42c5-a688-7b9de0994eba"
+					(reference "R29")
+					(unit 1)
+				)
+			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
 					(reference "R29")
 					(unit 1)
 				)
@@ -4616,7 +5148,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://PYU-RC_GROUP_51_ROHS_L (1).pdf"
 			(at 129.54 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -4638,6 +5170,112 @@
 				)
 			)
 		)
+		(property "DigiKeyNo" ""
+			(at 129.54 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" ""
+			(at 129.54 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MouserNo" ""
+			(at 129.54 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 129.54 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 129.54 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Detailed Description" ""
+			(at 129.54 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "RC0402FR-0710KL"
+			(at 129.54 88.9 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 129.54 88.9 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "311-10.0KLRCT-ND"
+			(at 129.54 88.9 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "$0.00688"
+			(at 129.54 88.9 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ceb1abb4-2423-4dbc-9a46-02fee62ef363")
 		)
@@ -4647,6 +5285,12 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/54bd8d4f-0c23-42c5-a688-7b9de0994eba"
+					(reference "R31")
+					(unit 1)
+				)
+			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
 					(reference "R31")
 					(unit 1)
 				)
@@ -4697,7 +5341,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://e-uwt.pdf"
 			(at 163.83 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -4719,6 +5363,72 @@
 				)
 			)
 		)
+		(property "DigiKeyNo" ""
+			(at 163.83 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" ""
+			(at 163.83 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MouserNo" ""
+			(at 163.83 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 163.83 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 163.83 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Detailed Description" ""
+			(at 163.83 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fea5dbb1-3d48-459b-b88d-c8aa185f8818")
 		)
@@ -4728,6 +5438,12 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/54bd8d4f-0c23-42c5-a688-7b9de0994eba"
+					(reference "C40")
+					(unit 1)
+				)
+			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
 					(reference "C40")
 					(unit 1)
 				)
@@ -4810,6 +5526,12 @@
 					(unit 1)
 				)
 			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4854,7 +5576,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://PYU-RC_GROUP_51_ROHS_L (1).pdf"
 			(at 132.08 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4876,6 +5598,112 @@
 				)
 			)
 		)
+		(property "DigiKeyNo" ""
+			(at 132.08 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" ""
+			(at 132.08 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MouserNo" ""
+			(at 132.08 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 132.08 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 132.08 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Detailed Description" ""
+			(at 132.08 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "RC0402FR-0710KL"
+			(at 132.08 115.57 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 132.08 115.57 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "311-10.0KLRCT-ND"
+			(at 132.08 115.57 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "$0.00688"
+			(at 132.08 115.57 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "428347af-6920-4a4b-a052-48290c7e6f9f")
 		)
@@ -4885,6 +5713,12 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/54bd8d4f-0c23-42c5-a688-7b9de0994eba"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
 					(reference "R27")
 					(unit 1)
 				)
@@ -4933,7 +5767,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://PYU-RC_GROUP_51_ROHS_L (1).pdf"
 			(at 77.47 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -4955,6 +5789,112 @@
 				)
 			)
 		)
+		(property "DigiKeyNo" ""
+			(at 77.47 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" ""
+			(at 77.47 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MouserNo" ""
+			(at 77.47 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 77.47 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 77.47 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Detailed Description" ""
+			(at 77.47 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "RC0402FR-0710KL"
+			(at 77.47 102.87 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 77.47 102.87 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "311-10.0KLRCT-ND"
+			(at 77.47 102.87 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "$0.00688"
+			(at 77.47 102.87 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e58c8484-43ee-4f09-a651-dc8e3ecb37f1")
 		)
@@ -4964,6 +5904,12 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/54bd8d4f-0c23-42c5-a688-7b9de0994eba"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
 					(reference "R33")
 					(unit 1)
 				)
@@ -5014,7 +5960,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://e-uwt.pdf"
 			(at 144.78 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -5036,6 +5982,72 @@
 				)
 			)
 		)
+		(property "DigiKeyNo" ""
+			(at 144.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" ""
+			(at 144.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MouserNo" ""
+			(at 144.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 144.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 144.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Detailed Description" ""
+			(at 144.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fa47e15b-9487-4ba4-af39-f2226b110eb8")
 		)
@@ -5045,6 +6057,12 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/54bd8d4f-0c23-42c5-a688-7b9de0994eba"
+					(reference "C39")
+					(unit 1)
+				)
+			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
 					(reference "C39")
 					(unit 1)
 				)
@@ -5093,7 +6111,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://PYU-RC_GROUP_51_ROHS_L (1).pdf"
 			(at 157.48 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -5115,6 +6133,112 @@
 				)
 			)
 		)
+		(property "DigiKeyNo" ""
+			(at 157.48 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" ""
+			(at 157.48 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MouserNo" ""
+			(at 157.48 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 157.48 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 157.48 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Detailed Description" ""
+			(at 157.48 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "RC0402FR-0710KL"
+			(at 157.48 100.33 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 157.48 100.33 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "311-10.0KLRCT-ND"
+			(at 157.48 100.33 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "$0.00688"
+			(at 157.48 100.33 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c34348d4-68e2-4db7-98cc-ff28f2076176")
 		)
@@ -5124,6 +6248,12 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/54bd8d4f-0c23-42c5-a688-7b9de0994eba"
+					(reference "R30")
+					(unit 1)
+				)
+			)
+			(project "rotary_encoder"
+				(path "/9f6ccc1e-1b7e-469e-9da9-d80519cdca4f"
 					(reference "R30")
 					(unit 1)
 				)
