@@ -800,7 +800,7 @@
       },
       {
         "filename": "on_off_switch.kicad_sch",
-        "name": "on_off_switch",
+        "name": "gpio_conn_on_off_switch",
         "uuid": "0e4d9688-f49e-4ffe-aad5-8ef5d1310979"
       },
       {
@@ -812,9 +812,14 @@
         "filename": "flash_memory.kicad_sch",
         "name": "flash_memory",
         "uuid": "1984bcd8-aef8-44a9-a37a-abb8414d1eae"
+      },
+      {
+        "filename": "battery-3.3-stable-rail.kicad_sch",
+        "name": "battery-3.3-stable-rail",
+        "uuid": "5d116f8e-7659-44dd-9445-a35e60e79b2f"
       }
     ],
-    "used_designators": "#PWR1-30,#PWR32-46,D1,U1-3,C1-31,C33-40,R1-4,R6-34,B1-2,SOG25664B2_M1,SW1,S2-3,L3,Q1",
+    "used_designators": "#PWR1-30,#PWR32-48,D1,U1-4,C1-31,C33-40,R1-4,R6-34,B1-2,SOG25664B2_M1,SW1,S2-3,L3-4,Q1-2",
     "variants": []
   },
   "sheets": [
@@ -848,7 +853,7 @@
     ],
     [
       "0e4d9688-f49e-4ffe-aad5-8ef5d1310979",
-      "on_off_switch"
+      "gpio_conn_on_off_switch"
     ],
     [
       "c547b6f2-582a-49cc-9387-e71aea70b6ff",
@@ -857,6 +862,10 @@
     [
       "1984bcd8-aef8-44a9-a37a-abb8414d1eae",
       "flash_memory"
+    ],
+    [
+      "5d116f8e-7659-44dd-9445-a35e60e79b2f",
+      "battery-3.3-stable-rail"
     ]
   ],
   "text_variables": {},

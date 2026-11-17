@@ -4350,6 +4350,7 @@
 		)
 		(property "Mfg_No" "RC0402FR-0710KL"
 			(at 77.47 99.06 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4360,6 +4361,7 @@
 		)
 		(property "Supplier" "DigiKey"
 			(at 77.47 99.06 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4370,6 +4372,7 @@
 		)
 		(property "Supplier_No" "311-10.0KLRCT-ND"
 			(at 77.47 99.06 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4380,6 +4383,7 @@
 		)
 		(property "Unit_Cost" "$0.00688"
 			(at 77.47 99.06 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4541,6 +4545,7 @@
 		)
 		(property "Mfg_No" "RC0402FR-0710KL"
 			(at 151.13 93.98 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4551,6 +4556,7 @@
 		)
 		(property "Supplier" "DigiKey"
 			(at 151.13 93.98 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4561,6 +4567,7 @@
 		)
 		(property "Supplier_No" "311-10.0KLRCT-ND"
 			(at 151.13 93.98 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4571,6 +4578,7 @@
 		)
 		(property "Unit_Cost" "$0.00688"
 			(at 151.13 93.98 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4732,6 +4740,7 @@
 		)
 		(property "Mfg_No" "RC0402FR-0710KL"
 			(at 77.47 106.68 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4742,6 +4751,7 @@
 		)
 		(property "Supplier" "DigiKey"
 			(at 77.47 106.68 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4752,6 +4762,7 @@
 		)
 		(property "Supplier_No" "311-10.0KLRCT-ND"
 			(at 77.47 106.68 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4762,6 +4773,7 @@
 		)
 		(property "Unit_Cost" "$0.00688"
 			(at 77.47 106.68 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4859,6 +4871,7 @@
 		)
 		(property "Supplier" ""
 			(at 97.79 114.3 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4869,6 +4882,7 @@
 		)
 		(property "Supplier_No" ""
 			(at 97.79 114.3 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4879,6 +4893,7 @@
 		)
 		(property "Mfg_No" ""
 			(at 97.79 114.3 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4889,6 +4904,7 @@
 		)
 		(property "Unit_Cost" ""
 			(at 97.79 114.3 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5047,6 +5063,7 @@
 		)
 		(property "Mfg_No" "RC0402FR-0710KL"
 			(at 138.43 121.92 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5057,6 +5074,7 @@
 		)
 		(property "Supplier" "DigiKey"
 			(at 138.43 121.92 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5067,6 +5085,7 @@
 		)
 		(property "Supplier_No" "311-10.0KLRCT-ND"
 			(at 138.43 121.92 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5077,6 +5096,7 @@
 		)
 		(property "Unit_Cost" "$0.00688"
 			(at 138.43 121.92 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5238,6 +5258,7 @@
 		)
 		(property "Mfg_No" "RC0402FR-0710KL"
 			(at 129.54 88.9 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5248,6 +5269,7 @@
 		)
 		(property "Supplier" "DigiKey"
 			(at 129.54 88.9 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5258,6 +5280,7 @@
 		)
 		(property "Supplier_No" "311-10.0KLRCT-ND"
 			(at 129.54 88.9 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5268,6 +5291,7 @@
 		)
 		(property "Unit_Cost" "$0.00688"
 			(at 129.54 88.9 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5341,7 +5365,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://e-uwt.pdf"
+		(property "Datasheet" "kicad-embed://e-uup.pdf"
 			(at 163.83 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -5419,6 +5443,50 @@
 			)
 		)
 		(property "Detailed Description" ""
+			(at 163.83 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "UUP1H0R1MCL1GS"
+			(at 163.83 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 163.83 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "493-9552-1-ND"
+			(at 163.83 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" " $0.29222"
 			(at 163.83 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -5666,6 +5734,7 @@
 		)
 		(property "Mfg_No" "RC0402FR-0710KL"
 			(at 132.08 115.57 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5676,6 +5745,7 @@
 		)
 		(property "Supplier" "DigiKey"
 			(at 132.08 115.57 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5686,6 +5756,7 @@
 		)
 		(property "Supplier_No" "311-10.0KLRCT-ND"
 			(at 132.08 115.57 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5696,6 +5767,7 @@
 		)
 		(property "Unit_Cost" "$0.00688"
 			(at 132.08 115.57 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5857,6 +5929,7 @@
 		)
 		(property "Mfg_No" "RC0402FR-0710KL"
 			(at 77.47 102.87 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5867,6 +5940,7 @@
 		)
 		(property "Supplier" "DigiKey"
 			(at 77.47 102.87 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5877,6 +5951,7 @@
 		)
 		(property "Supplier_No" "311-10.0KLRCT-ND"
 			(at 77.47 102.87 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5887,6 +5962,7 @@
 		)
 		(property "Unit_Cost" "$0.00688"
 			(at 77.47 102.87 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5960,7 +6036,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://e-uwt.pdf"
+		(property "Datasheet" "kicad-embed://e-uup.pdf"
 			(at 144.78 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -6038,6 +6114,50 @@
 			)
 		)
 		(property "Detailed Description" ""
+			(at 144.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "UUP1H0R1MCL1GS"
+			(at 144.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 144.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "493-9552-1-ND"
+			(at 144.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" " $0.29222"
 			(at 144.78 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -6201,6 +6321,7 @@
 		)
 		(property "Mfg_No" "RC0402FR-0710KL"
 			(at 157.48 100.33 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6211,6 +6332,7 @@
 		)
 		(property "Supplier" "DigiKey"
 			(at 157.48 100.33 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6221,6 +6343,7 @@
 		)
 		(property "Supplier_No" "311-10.0KLRCT-ND"
 			(at 157.48 100.33 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6231,6 +6354,7 @@
 		)
 		(property "Unit_Cost" "$0.00688"
 			(at 157.48 100.33 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
