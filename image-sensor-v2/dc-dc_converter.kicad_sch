@@ -2984,7 +2984,7 @@
 				)
 			)
 		)
-		(property "Value" "TBD"
+		(property "Value" "22 µH"
 			(at 168.148 65.532 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3005,7 +3005,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://AIML-0402.pdf"
 			(at 165.1 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -3082,8 +3082,52 @@
 				)
 			)
 		)
-		(property "Detailed Description" ""
+		(property "Detailed Description" "2.2 µH Shielded Multilayer Inductor 10 mA 1.75Ohm Max 0402 (1005 Metric)"
 			(at 165.1 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 165.1 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "535-11585-1-ND"
+			(at 165.1 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "AIML-0402-2R2K-T"
+			(at 165.1 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" " $0.03585"
+			(at 165.1 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3130,7 +3174,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TBD µF"
+		(property "Value" "4.7 µF"
 			(at 104.648 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3152,7 +3196,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://AX.pdf"
 			(at 104.14 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -3240,6 +3284,50 @@
 				)
 			)
 		)
+		(property "Supplier" "DigiKey"
+			(at 104.14 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "1189-2276-ND"
+			(at 104.14 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "400AX4.7MEFC8X9"
+			(at 104.14 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "$0.17014"
+			(at 104.14 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "21006a07-790a-4d85-97f5-d3653b23d931")
 		)
@@ -3277,7 +3365,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TBD µF"
+		(property "Value" "22 µF"
 			(at 184.658 72.644 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3299,7 +3387,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://CL10A226MO7JZNC_Spec.pdf"
 			(at 184.15 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -3376,7 +3464,51 @@
 				)
 			)
 		)
-		(property "Detailed Description" ""
+		(property "Detailed Description" "22 µF ±20% 16V Ceramic Capacitor X5R 0603 (1608 Metric)"
+			(at 184.15 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 184.15 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "1276-7076-1-ND"
+			(at 184.15 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "CL10A226MO7JZNC"
+			(at 184.15 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "$0.26658"
 			(at 184.15 71.12 0)
 			(hide yes)
 			(show_name no)
