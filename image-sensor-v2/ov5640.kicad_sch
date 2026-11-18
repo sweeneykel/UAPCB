@@ -1,0 +1,23 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "51181d28-5483-41f5-9a23-7314eba9ae9d")
+	(paper "A4")
+	(lib_symbols)
+	(text "Source Attribution: https://github.com/antmicro/ov5640-dual-camera-board"
+		(exclude_from_sim no)
+		(at 92.71 24.892 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+		)
+		(uuid "d4156260-2e0d-42ee-8292-c0211bc75eff")
+	)
+	(sheet_instances
+		(path "/"
+			(page "12")
+		)
+	)
+)
