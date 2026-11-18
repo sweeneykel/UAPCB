@@ -799,7 +799,7 @@
 	)
 	(text "Source"
 		(exclude_from_sim no)
-		(at 126.746 87.884 0)
+		(at 141.986 98.044 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -809,7 +809,7 @@
 	)
 	(text "Gate"
 		(exclude_from_sim no)
-		(at 101.6 74.168 0)
+		(at 116.84 84.328 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -819,7 +819,7 @@
 	)
 	(text "Drain"
 		(exclude_from_sim no)
-		(at 125.984 58.42 0)
+		(at 141.224 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -829,7 +829,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 69.85) (xy 119.38 73.66)
+			(xy 134.62 80.01) (xy 134.62 83.82)
 		)
 		(stroke
 			(width 0)
@@ -839,7 +839,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 83.82) (xy 119.38 90.17)
+			(xy 134.62 93.98) (xy 134.62 100.33)
 		)
 		(stroke
 			(width 0)
@@ -849,7 +849,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 46.99) (xy 119.38 53.34)
+			(xy 134.62 57.15) (xy 134.62 63.5)
 		)
 		(stroke
 			(width 0)
@@ -859,7 +859,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 78.74) (xy 111.76 78.74)
+			(xy 116.84 88.9) (xy 127 88.9)
 		)
 		(stroke
 			(width 0)
@@ -869,7 +869,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 58.42) (xy 119.38 62.23)
+			(xy 134.62 68.58) (xy 134.62 72.39)
 		)
 		(stroke
 			(width 0)
@@ -879,7 +879,7 @@
 	)
 	(global_label "ESP_3V3"
 		(shape input)
-		(at 119.38 46.99 0)
+		(at 134.62 57.15 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -889,7 +889,7 @@
 		)
 		(uuid "41b2a0be-5ed2-4d69-a850-04f4a113fbdb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.4689 46.99 0)
+			(at 145.7089 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -903,7 +903,7 @@
 	)
 	(global_label "GPIO_14"
 		(shape input)
-		(at 101.6 78.74 180)
+		(at 116.84 88.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -913,7 +913,7 @@
 		)
 		(uuid "4315ceee-cbf8-4c17-89da-2fef7b0543eb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.7529 78.74 0)
+			(at 105.9929 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -927,7 +927,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 119.38 66.04 90)
+		(at 134.62 76.2 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -938,7 +938,7 @@
 		(fields_autoplaced yes)
 		(uuid "4d448c54-af5e-499b-9f1d-4d8d5b0b8b67")
 		(property "Reference" "D1"
-			(at 123.19 66.3574 90)
+			(at 138.43 76.5174 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -949,7 +949,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 123.19 68.8974 90)
+			(at 138.43 79.0574 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -960,7 +960,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 66.04 0)
+			(at 134.62 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -971,7 +971,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://HB-C513A-WSN-WSS-MSN-MSS.pdf"
-			(at 119.38 66.04 0)
+			(at 134.62 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -982,7 +982,7 @@
 			)
 		)
 		(property "Description" "LED WARM WHITE CLEAR 5MM T/H"
-			(at 119.38 66.04 0)
+			(at 134.62 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -993,7 +993,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 119.38 66.04 0)
+			(at 134.62 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1004,7 +1004,7 @@
 			)
 		)
 		(property "Supplier" "DigiKey"
-			(at 119.38 66.04 0)
+			(at 134.62 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1015,7 +1015,7 @@
 			)
 		)
 		(property "Supplier_No" "C513A-MSS-CX0Z0231-ND"
-			(at 119.38 66.04 0)
+			(at 134.62 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1026,7 +1026,7 @@
 			)
 		)
 		(property "Mfg_No" "C513A-MSS-CX0Z0231"
-			(at 119.38 66.04 0)
+			(at 134.62 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1037,7 +1037,7 @@
 			)
 		)
 		(property "Unit_Cost" "0.25"
-			(at 119.38 66.04 0)
+			(at 134.62 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1048,7 +1048,7 @@
 			)
 		)
 		(property "DigiKeyNo" ""
-			(at 119.38 66.04 90)
+			(at 134.62 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1059,7 +1059,7 @@
 			)
 		)
 		(property "MfgNo" ""
-			(at 119.38 66.04 90)
+			(at 134.62 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1070,7 +1070,7 @@
 			)
 		)
 		(property "MouserNo" ""
-			(at 119.38 66.04 90)
+			(at 134.62 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1081,7 +1081,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 119.38 66.04 90)
+			(at 134.62 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1092,7 +1092,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 119.38 66.04 90)
+			(at 134.62 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1103,7 +1103,7 @@
 			)
 		)
 		(property "Detailed Description" ""
-			(at 119.38 66.04 90)
+			(at 134.62 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1130,7 +1130,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 119.38 55.88 0)
+		(at 134.62 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1140,7 +1140,7 @@
 		(dnp no)
 		(uuid "6b8c1799-bc8f-4828-ba1a-dc65138c99dc")
 		(property "Reference" "R17"
-			(at 118.11 58.42 90)
+			(at 133.35 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1150,7 +1150,7 @@
 			)
 		)
 		(property "Value" "220 Ω"
-			(at 118.11 53.34 90)
+			(at 133.35 63.5 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1160,7 +1160,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 55.88 0)
+			(at 134.62 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1171,7 +1171,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://PYU-RC_GROUP_51_ROHS_L (2).pdf"
-			(at 119.38 55.88 0)
+			(at 134.62 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1182,7 +1182,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 119.38 55.88 0)
+			(at 134.62 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1193,7 +1193,7 @@
 			)
 		)
 		(property "DigiKeyNo" ""
-			(at 119.38 55.88 90)
+			(at 134.62 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1204,7 +1204,7 @@
 			)
 		)
 		(property "MfgNo" ""
-			(at 119.38 55.88 90)
+			(at 134.62 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1215,7 +1215,7 @@
 			)
 		)
 		(property "MouserNo" ""
-			(at 119.38 55.88 90)
+			(at 134.62 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1226,7 +1226,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 119.38 55.88 90)
+			(at 134.62 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1237,7 +1237,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 119.38 55.88 90)
+			(at 134.62 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1248,7 +1248,7 @@
 			)
 		)
 		(property "Detailed Description" ""
-			(at 119.38 55.88 90)
+			(at 134.62 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1259,7 +1259,7 @@
 			)
 		)
 		(property "Mfg_No" "RC0402FR-07220RL"
-			(at 119.38 55.88 90)
+			(at 134.62 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1270,7 +1270,7 @@
 			)
 		)
 		(property "Supplier" "DigiKey"
-			(at 119.38 55.88 90)
+			(at 134.62 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1281,7 +1281,7 @@
 			)
 		)
 		(property "Supplier_No" "311-220LRCT-ND"
-			(at 119.38 55.88 90)
+			(at 134.62 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1292,7 +1292,7 @@
 			)
 		)
 		(property "Unit_Cost" " $0.00688"
-			(at 119.38 55.88 90)
+			(at 134.62 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1319,7 +1319,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 119.38 90.17 0)
+		(at 134.62 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1330,7 +1330,7 @@
 		(fields_autoplaced yes)
 		(uuid "b342d99f-a749-4b0e-81ad-200a9ec98df6")
 		(property "Reference" "#PWR042"
-			(at 119.38 96.52 0)
+			(at 134.62 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1341,7 +1341,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 119.38 95.25 0)
+			(at 134.62 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1351,7 +1351,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 90.17 0)
+			(at 134.62 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1362,7 +1362,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 90.17 0)
+			(at 134.62 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1373,7 +1373,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 90.17 0)
+			(at 134.62 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1397,7 +1397,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:AO3400A")
-		(at 116.84 78.74 0)
+		(at 132.08 88.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1408,7 +1408,7 @@
 		(fields_autoplaced yes)
 		(uuid "dc0bafef-f0b6-4667-83a8-3a25e8058340")
 		(property "Reference" "Q2"
-			(at 123.19 77.4699 0)
+			(at 138.43 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1419,7 +1419,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 123.19 80.0099 0)
+			(at 138.43 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1430,7 +1430,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 121.92 80.645 0)
+			(at 137.16 90.805 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1443,7 +1443,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 121.92 82.55 0)
+			(at 137.16 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1455,7 +1455,7 @@
 			)
 		)
 		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
-			(at 116.84 78.74 0)
+			(at 132.08 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1466,7 +1466,7 @@
 			)
 		)
 		(property "Supplier" "DigiKey"
-			(at 116.84 78.74 0)
+			(at 132.08 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1477,7 +1477,7 @@
 			)
 		)
 		(property "Supplier_No" "785-1000-1-ND"
-			(at 116.84 78.74 0)
+			(at 132.08 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1488,7 +1488,7 @@
 			)
 		)
 		(property "Mfg_No" "AO3400A"
-			(at 116.84 78.74 0)
+			(at 132.08 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1499,7 +1499,7 @@
 			)
 		)
 		(property "Unit_Cost" "$0.15316"
-			(at 116.84 78.74 0)
+			(at 132.08 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

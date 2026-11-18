@@ -583,19 +583,19 @@
 						(type none)
 					)
 				)
-				(rectangle
-					(start 0 0)
-					(end 16.51 15.24)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
 			)
 			(symbol "TLV62569DBVR_1_1"
+				(rectangle
+					(start 0 15.24)
+					(end 16.51 0)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
 				(pin input line
 					(at -2.54 7.62 0)
 					(length 2.54)
@@ -805,24 +805,14 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Use a verified DCDC model: ETA3485, SY8088, RY3420, \nBL8028, LP3219, or TLV62569DBVR."
+	(text "Place DCDC close to ESP-P4. Use a verified DCDC model: ETA3485, SY8088, RY3420, \nBL8028, LP3219, or TLV62569DBVR."
 		(exclude_from_sim no)
-		(at 165.354 100.076 0)
+		(at 105.918 102.362 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left top)
-		)
-		(uuid "05edd9ec-347b-4152-ab97-3abffec5e6b8")
-	)
-	(text "Place DCDC close to ESP-P4."
-		(exclude_from_sim no)
-		(at 179.324 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
+			(justify left)
 		)
 		(uuid "57e11db6-4a9d-42a1-9bf0-797dca42931b")
 	)

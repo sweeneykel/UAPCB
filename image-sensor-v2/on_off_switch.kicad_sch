@@ -11,6 +11,347 @@
 		(company "Rhea, Sarah, Peyton and Kelsey")
 	)
 	(lib_symbols
+		(symbol "Connector:Conn_01x02_Socket"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02_Socket"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x02_Socket_1_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -2.54) (xy -0.508 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -0.508)
+					(mid -0.5058 0)
+					(end 0 0.508)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -3.048)
+					(mid -0.5058 -2.54)
+					(end 0 -2.032)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector_Generic:Conn_01x02"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x02_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R_Small_US"
 			(pin_numbers
 				(hide yes)
@@ -469,15 +810,45 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Attached to PCB"
+		(exclude_from_sim no)
+		(at 96.774 28.956 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2e844c24-45c5-4349-926e-737fa7162792")
+	)
+	(text "Flush with exterior of product."
+		(exclude_from_sim no)
+		(at 145.796 29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "dfa8166a-4b83-4770-ac28-15192d663eec")
+	)
 	(junction
-		(at 120.65 96.52)
+		(at 83.82 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "10f2e780-9123-4fa1-bcc2-4533d882af6e")
+		(uuid "4e1f90b4-b96f-4518-be25-238c4cf8b966")
 	)
 	(wire
 		(pts
-			(xy 120.65 91.44) (xy 120.65 96.52)
+			(xy 83.82 59.69) (xy 91.44 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2949eb9c-4c0e-4346-b573-e1186646ad40")
+	)
+	(wire
+		(pts
+			(xy 83.82 46.99) (xy 83.82 52.07)
 		)
 		(stroke
 			(width 0)
@@ -487,17 +858,47 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 96.52) (xy 95.25 100.33)
+			(xy 137.16 59.69) (xy 148.59 59.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "81095956-d0d0-41d9-ae89-0310c6b28439")
+		(uuid "5dcb44b9-bb02-4b15-a037-4ab73bc02788")
 	)
 	(wire
 		(pts
-			(xy 120.65 96.52) (xy 127 96.52)
+			(xy 83.82 52.07) (xy 83.82 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ef50cd4-ea77-4134-af0e-2a1032a8d217")
+	)
+	(wire
+		(pts
+			(xy 163.83 59.69) (xy 163.83 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99a5f77d-685a-4da7-a92b-f804a71e8b49")
+	)
+	(wire
+		(pts
+			(xy 137.16 62.23) (xy 163.83 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a611f92c-3d73-4175-8a99-ecbb30b0b09e")
+	)
+	(wire
+		(pts
+			(xy 83.82 52.07) (xy 71.12 52.07)
 		)
 		(stroke
 			(width 0)
@@ -507,7 +908,37 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 82.55) (xy 120.65 86.36)
+			(xy 91.44 62.23) (xy 83.82 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be36b56e-1a87-4e96-852e-6d9df2602b3e")
+	)
+	(wire
+		(pts
+			(xy 83.82 62.23) (xy 83.82 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2d9a310-ba45-4f0b-b4f8-85c863ac083c")
+	)
+	(wire
+		(pts
+			(xy 158.75 59.69) (xy 163.83 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccc7e9f4-a21a-4699-afe9-d8088eaad8e1")
+	)
+	(wire
+		(pts
+			(xy 83.82 38.1) (xy 83.82 41.91)
 		)
 		(stroke
 			(width 0)
@@ -515,39 +946,19 @@
 		)
 		(uuid "d3a47878-6ee5-41b9-8d03-0ebdf9515e74")
 	)
-	(wire
-		(pts
-			(xy 95.25 96.52) (xy 102.87 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd71e1cc-a3c1-4f45-9705-1f0f1be45417")
-	)
-	(wire
-		(pts
-			(xy 113.03 96.52) (xy 120.65 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e21d34fb-d869-4556-ae7c-8f705d31d37e")
-	)
 	(global_label "GPIO_15"
 		(shape input)
-		(at 127 96.52 0)
+		(at 71.12 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "47a3b53f-3b02-4ed3-b199-bd1369e3ce54")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.8471 96.52 0)
+			(at 60.2729 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -555,13 +966,13 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
 	(global_label "ESP_3V3"
 		(shape input)
-		(at 120.65 82.55 0)
+		(at 83.82 38.1 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -571,7 +982,7 @@
 		)
 		(uuid "d73e19a1-d126-46d1-9cc1-5eeb6c5d1637")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.7389 82.55 0)
+			(at 94.9089 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -584,8 +995,133 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 96.52 59.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "54e33dca-ac59-42c4-b6cf-c6d8a5045f9d")
+		(property "Reference" "J2"
+			(at 94.742 51.308 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "S2B-PH-K-S"
+			(at 94.742 53.848 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 96.52 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "kicad-embed://ePH.pdf"
+			(at 96.52 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 96.52 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 96.52 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "455-1719-ND"
+			(at 96.52 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "S2B-PH-K-S"
+			(at 96.52 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" " $0.07472"
+			(at 96.52 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6a6682c1-045e-404a-93e4-63daa16fea0f")
+		)
+		(pin "1"
+			(uuid "6e854352-3738-4a22-87b9-e22d2570cf73")
+		)
+		(instances
+			(project "image-sensor-v2"
+				(path "/0e4d9688-f49e-4ffe-aad5-8ef5d1310979"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 95.25 100.33 0)
+		(at 83.82 72.39 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -596,7 +1132,7 @@
 		(fields_autoplaced yes)
 		(uuid "647c3528-5ac7-44b5-9fdc-dbcf7406dc5c")
 		(property "Reference" "#PWR034"
-			(at 95.25 106.68 0)
+			(at 83.82 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -607,7 +1143,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 95.25 105.41 0)
+			(at 83.82 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -617,7 +1153,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 100.33 0)
+			(at 83.82 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -628,7 +1164,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 100.33 0)
+			(at 83.82 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -639,7 +1175,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 95.25 100.33 0)
+			(at 83.82 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -663,18 +1199,18 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DPST_x2")
-		(at 107.95 96.52 0)
+		(at 153.67 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf854e01-6ef1-4fb7-83bb-0e4bf16ee1a1")
 		(property "Reference" "SW1"
-			(at 107.95 90.17 0)
+			(at 153.67 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -683,8 +1219,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 107.95 92.71 0)
+		(property "Value" "RA1113112R"
+			(at 153.67 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -694,7 +1230,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -705,7 +1241,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://onoffswitch.pdf"
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -716,7 +1252,7 @@
 			)
 		)
 		(property "Description" "Rocker Switch SPST 10A (AC) 125 V Panel Mount, Snap-In"
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -727,7 +1263,7 @@
 			)
 		)
 		(property "Supplier" "Digikey"
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -738,7 +1274,7 @@
 			)
 		)
 		(property "Supplier_No" "EG5619-ND"
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -749,7 +1285,7 @@
 			)
 		)
 		(property "Mfg_No" "RA1113112R"
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -760,7 +1296,7 @@
 			)
 		)
 		(property "Unit_Cost" "0.46"
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -771,7 +1307,7 @@
 			)
 		)
 		(property "DigiKeyNo" ""
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -782,7 +1318,7 @@
 			)
 		)
 		(property "MfgNo" ""
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -793,7 +1329,7 @@
 			)
 		)
 		(property "MouserNo" ""
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -804,7 +1340,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -815,7 +1351,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -826,7 +1362,7 @@
 			)
 		)
 		(property "Detailed Description" ""
-			(at 107.95 96.52 0)
+			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -859,7 +1395,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 120.65 88.9 0)
+		(at 83.82 44.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -869,7 +1405,7 @@
 		(dnp no)
 		(uuid "dfc9e9bf-b1d3-47a4-aca5-271d05dc5f3a")
 		(property "Reference" "R26"
-			(at 119.38 91.44 90)
+			(at 82.55 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -879,7 +1415,7 @@
 			)
 		)
 		(property "Value" "220 Ω"
-			(at 119.38 86.36 90)
+			(at 82.55 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -889,7 +1425,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 88.9 0)
+			(at 83.82 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -900,7 +1436,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://PYU-RC_GROUP_51_ROHS_L (2).pdf"
-			(at 120.65 88.9 0)
+			(at 83.82 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -911,7 +1447,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 120.65 88.9 0)
+			(at 83.82 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -922,7 +1458,7 @@
 			)
 		)
 		(property "DigiKeyNo" ""
-			(at 120.65 88.9 90)
+			(at 83.82 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -933,7 +1469,7 @@
 			)
 		)
 		(property "MfgNo" ""
-			(at 120.65 88.9 90)
+			(at 83.82 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -944,7 +1480,7 @@
 			)
 		)
 		(property "MouserNo" ""
-			(at 120.65 88.9 90)
+			(at 83.82 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -955,7 +1491,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 120.65 88.9 90)
+			(at 83.82 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -966,7 +1502,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 120.65 88.9 90)
+			(at 83.82 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -977,7 +1513,7 @@
 			)
 		)
 		(property "Detailed Description" ""
-			(at 120.65 88.9 90)
+			(at 83.82 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -988,7 +1524,7 @@
 			)
 		)
 		(property "Mfg_No" "RC0402FR-07220RL"
-			(at 120.65 88.9 90)
+			(at 83.82 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -999,7 +1535,7 @@
 			)
 		)
 		(property "Supplier" "DigiKey"
-			(at 120.65 88.9 90)
+			(at 83.82 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1010,7 +1546,7 @@
 			)
 		)
 		(property "Supplier_No" "311-220LRCT-ND"
-			(at 120.65 88.9 90)
+			(at 83.82 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1021,7 +1557,7 @@
 			)
 		)
 		(property "Unit_Cost" " $0.00688"
-			(at 120.65 88.9 90)
+			(at 83.82 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1041,6 +1577,132 @@
 			(project "image-sensor-v2"
 				(path "/0e4d9688-f49e-4ffe-aad5-8ef5d1310979"
 					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Socket")
+		(at 132.08 59.69 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fb805ae4-26a3-4561-ac08-10be49e6b9bc")
+		(property "Reference" "J12"
+			(at 132.08 52.832 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PHR-2"
+			(at 132.08 55.372 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm"
+			(at 132.08 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "kicad-embed://ePH (4).pdf"
+			(at 132.08 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 132.08 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 132.08 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier_No" "455-1165-ND"
+			(at 132.08 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfg_No" "PHR-2"
+			(at 132.08 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Unit_Cost" "$0.04058"
+			(at 132.08 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bb26fae5-f52e-446e-8e19-cd3ca2af31b1")
+		)
+		(pin "2"
+			(uuid "d7a528b6-0a50-424d-8346-d9188a463728")
+		)
+		(instances
+			(project "image-sensor-v2"
+				(path "/0e4d9688-f49e-4ffe-aad5-8ef5d1310979"
+					(reference "J12")
 					(unit 1)
 				)
 			)

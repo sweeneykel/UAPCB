@@ -31275,13 +31275,14 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "When powered solely by the battery, only GPIOs in the VDD_BAT power domain can be controlled."
+	(text "VDD_BAT must not be left floating. When \npowered solely by the battery, only GPIOs \nin the VDD_BAT power domain can be controlled."
 		(exclude_from_sim no)
-		(at 58.166 5.334 0)
+		(at 16.51 46.228 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left top)
 		)
 		(uuid "1f7985dd-fed5-4043-8627-05826ac7e148")
 	)
@@ -31294,16 +31295,6 @@
 			)
 		)
 		(uuid "67c4c7e1-aa7c-4832-8408-d83dc819383c")
-	)
-	(text "VDD_BAT must not be left floating."
-		(exclude_from_sim no)
-		(at 32.766 36.576 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "bfc0841e-0420-4ab1-809c-566c6a5a8e4d")
 	)
 	(junction
 		(at 50.8 81.28)
@@ -34190,7 +34181,7 @@
 		)
 	)
 	(global_label "XTAL_P"
-		(shape input)
+		(shape bidirectional)
 		(at 113.03 22.86 90)
 		(fields_autoplaced yes)
 		(effects
@@ -34201,7 +34192,7 @@
 		)
 		(uuid "16235a02-0ece-4c70-8f7c-a3d1c5d6d55f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 113.03 13.3434 90)
+			(at 113.03 12.2321 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34694,7 +34685,7 @@
 		)
 	)
 	(global_label "XTAL_N"
-		(shape input)
+		(shape bidirectional)
 		(at 115.57 22.86 90)
 		(fields_autoplaced yes)
 		(effects
@@ -34705,7 +34696,7 @@
 		)
 		(uuid "7e4bf375-391c-4cc6-8131-9f3a860cad4e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 115.57 13.2829 90)
+			(at 115.57 12.1716 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

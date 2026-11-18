@@ -1603,7 +1603,7 @@
 	)
 	(symbol
 		(lib_id "ME691Lib:AR0234_CSP83")
-		(at 128.27 120.65 0)
+		(at 101.6 133.35 0)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1613,7 +1613,7 @@
 		(dnp no)
 		(uuid "058ece3e-3dca-4f3c-841b-4ec7904362e9")
 		(property "Reference" "U3"
-			(at 246.888 30.48 0)
+			(at 220.218 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1623,7 +1623,7 @@
 			)
 		)
 		(property "Value" "AR0234"
-			(at 250.19 33.782 0)
+			(at 221.996 46.482 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1633,7 +1633,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1644,7 +1644,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1655,7 +1655,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1666,7 +1666,7 @@
 			)
 		)
 		(property "Supplier" ""
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1677,7 +1677,7 @@
 			)
 		)
 		(property "Supplier_No" ""
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1688,7 +1688,7 @@
 			)
 		)
 		(property "Mfg_No" "AR0234"
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1699,7 +1699,7 @@
 			)
 		)
 		(property "Unit_Cost" ""
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1710,7 +1710,7 @@
 			)
 		)
 		(property "DigiKeyNo" ""
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1721,7 +1721,7 @@
 			)
 		)
 		(property "MfgNo" ""
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1732,7 +1732,7 @@
 			)
 		)
 		(property "MouserNo" ""
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1743,7 +1743,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1754,7 +1754,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1765,7 +1765,7 @@
 			)
 		)
 		(property "Detailed Description" ""
-			(at 128.27 120.65 0)
+			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2029,7 +2029,7 @@
 	)
 	(symbol
 		(lib_id "ME691Lib:AR0234_CSP83")
-		(at 95.25 115.57 0)
+		(at 68.58 128.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2039,7 +2039,7 @@
 		(dnp no)
 		(uuid "13729fb9-1e0b-4783-8b2e-5464e13d730b")
 		(property "Reference" "U3"
-			(at 124.206 46.228 0)
+			(at 104.648 57.912 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2049,7 +2049,7 @@
 			)
 		)
 		(property "Value" "AR0234"
-			(at 133.35 49.022 0)
+			(at 106.68 61.722 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2059,7 +2059,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2070,7 +2070,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2081,7 +2081,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2092,7 +2092,7 @@
 			)
 		)
 		(property "Supplier" ""
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2103,7 +2103,7 @@
 			)
 		)
 		(property "Supplier_No" ""
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2114,7 +2114,7 @@
 			)
 		)
 		(property "Mfg_No" "AR0234"
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2125,7 +2125,7 @@
 			)
 		)
 		(property "Unit_Cost" ""
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2136,7 +2136,7 @@
 			)
 		)
 		(property "DigiKeyNo" ""
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2147,7 +2147,7 @@
 			)
 		)
 		(property "MfgNo" ""
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2158,7 +2158,7 @@
 			)
 		)
 		(property "MouserNo" ""
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2169,7 +2169,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2180,7 +2180,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2191,7 +2191,7 @@
 			)
 		)
 		(property "Detailed Description" ""
-			(at 95.25 115.57 0)
+			(at 68.58 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
