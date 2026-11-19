@@ -1429,7 +1429,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" ""
 			(at 137.16 90.805 0)
 			(hide yes)
 			(show_name no)

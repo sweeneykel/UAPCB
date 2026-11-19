@@ -40410,7 +40410,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:Maple_Mini"
+		(property "Footprint" ""
 			(at 223.52 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -40535,7 +40535,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-P4"
+		(property "Footprint" ""
 			(at 77.47 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -40991,7 +40991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" ""
 			(at 36.83 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -41182,7 +41182,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-P4"
+		(property "Footprint" ""
 			(at 50.8 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -41655,7 +41655,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm"
+		(property "Footprint" ""
 			(at 189.23 81.28 0)
 			(hide yes)
 			(show_name no)

@@ -943,7 +943,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-P4"
+		(property "Footprint" ""
 			(at 74.93 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -1140,7 +1140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-P4"
+		(property "Footprint" ""
 			(at 68.58 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -1330,7 +1330,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ME691footprint:OSC_XRCGB40M000F1S2BR0"
 			(at 86.36 71.12 0)
 			(hide yes)
 			(show_name no)
