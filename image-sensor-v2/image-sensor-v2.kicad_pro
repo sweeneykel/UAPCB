@@ -711,7 +711,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Value"
+      "sort_field": "Footprint"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -823,11 +823,6 @@
         "filename": "battery-3.3-stable-rail.kicad_sch",
         "name": "battery-3.3-stable-rail",
         "uuid": "5d116f8e-7659-44dd-9445-a35e60e79b2f"
-      },
-      {
-        "filename": "ov5640.kicad_sch",
-        "name": "img_sens_OV5640 (page 12)",
-        "uuid": "d5f14b18-5aef-41a4-aebd-2a9589c85113"
       }
     ],
     "used_designators": "D1,#PWR1-30,#PWR32-58,U1-7,C1-31,C33-41,B1-2,R1-4,R6-37,SW1,SOG25664B2_M1,S2-3,L3-4,Q1-2,J1-12,MK1",
@@ -877,10 +872,6 @@
     [
       "5d116f8e-7659-44dd-9445-a35e60e79b2f",
       "battery-3.3-stable-rail"
-    ],
-    [
-      "d5f14b18-5aef-41a4-aebd-2a9589c85113",
-      "img_sens_OV5640 (page 12)"
     ]
   ],
   "text_variables": {},
