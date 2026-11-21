@@ -1460,7 +1460,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3cb0cb05-a61f-4b64-83ca-8234b579a20f")
-		(property "Reference" "S3"
+		(property "Reference" "B3"
 			(at 144.526 56.388 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1642,7 +1642,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/791d1cad-b51e-46dd-bcf7-6d7a8df12659"
-					(reference "S3")
+					(reference "B3")
 					(unit 1)
 				)
 			)

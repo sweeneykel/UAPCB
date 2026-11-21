@@ -40243,7 +40243,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48974506-8970-499d-8678-4cacb8d07209")
-		(property "Reference" "U6"
+		(property "Reference" "B6"
 			(at 66.802 102.108 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40253,7 +40253,7 @@
 				)
 			)
 		)
-		(property "Value" "296-TPS63802DLATCT-ND"
+		(property "Value" "TPS63802DLAT"
 			(at 66.802 104.648 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40285,7 +40285,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Buck-Boost Switching Regulator IC Positive Adjustable 1.8V 1 Output 2A 10-PowerVFDFN"
 			(at 44.45 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -40296,7 +40296,7 @@
 				)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "DigiKey"
 			(at 44.45 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -40307,7 +40307,7 @@
 				)
 			)
 		)
-		(property "Supplier_No" ""
+		(property "Supplier_No" "296-TPS63802DLATCT-ND"
 			(at 44.45 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -40318,7 +40318,7 @@
 				)
 			)
 		)
-		(property "Mfg_No" ""
+		(property "Mfg_No" "TPS63802DLAT"
 			(at 44.45 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -40329,7 +40329,7 @@
 				)
 			)
 		)
-		(property "Unit_Cost" ""
+		(property "Unit_Cost" "$2.35940"
 			(at 44.45 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -40373,7 +40373,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "U6")
+					(reference "B6")
 					(unit 1)
 				)
 			)
@@ -40390,7 +40390,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4bcbff40-9296-4487-9f6f-c0c3f1fc27a5")
-		(property "Reference" "U5"
+		(property "Reference" "BT5"
 			(at 238.506 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40496,7 +40496,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "U5")
+					(reference "BT5")
 					(unit 1)
 				)
 			)

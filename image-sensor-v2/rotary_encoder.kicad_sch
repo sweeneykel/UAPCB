@@ -2633,7 +2633,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0eac01a4-c2fd-40ce-840e-09c169be26cb")
-		(property "Reference" "B1"
+		(property "Reference" "E1"
 			(at 228.092 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2823,7 +2823,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/54bd8d4f-0c23-42c5-a688-7b9de0994eba"
-					(reference "B1")
+					(reference "E1")
 					(unit 1)
 				)
 			)
