@@ -11443,7 +11443,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 55.88 101.6 0)
 			(hide yes)
 			(show_name no)
