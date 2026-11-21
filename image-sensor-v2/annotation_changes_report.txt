@@ -1,0 +1,141 @@
+Updated GND from #PWR04 to #PWR01.
+Updated GND from #PWR05 to #PWR02.
+Updated GND from #PWR01 to #PWR03.
+Updated GND from #PWR06 to #PWR04.
+Updated GND from #PWR03 to #PWR05.
+Updated GND from #PWR017 to #PWR06.
+Updated GND from #PWR021 to #PWR07.
+Updated GND from #PWR030 to #PWR08.
+Updated GND from #PWR031 to #PWR09.
+Updated GND from #PWR07 to #PWR010.
+Updated GND from #PWR08 to #PWR011.
+Updated GND from #PWR033 to #PWR012.
+Updated GND from #PWR09 to #PWR013.
+Updated GND from #PWR043 to #PWR014.
+Updated GND from #PWR010 to #PWR015.
+Updated GND from #PWR02 to #PWR016.
+Updated GND from #PWR011 to #PWR017.
+Updated GND from #PWR012 to #PWR018.
+Updated GND from #PWR027 to #PWR019.
+Updated GND from #PWR028 to #PWR020.
+Updated GND from #PWR026 to #PWR021.
+Updated GND from #PWR013 to #PWR022.
+Updated GND from #PWR025 to #PWR023.
+Updated GND from #PWR029 to #PWR024.
+Updated GND from #PWR024 to #PWR025.
+Updated GND from #PWR014 to #PWR026.
+Updated GND from #PWR023 to #PWR027.
+Updated GND from #PWR015 to #PWR028.
+Updated GND from #PWR018 to #PWR029.
+Updated GND from #PWR016 to #PWR030.
+Updated GND from #PWR019 to #PWR031.
+Updated GND from #PWR020 to #PWR032.
+Updated GND from #PWR022 to #PWR033.
+Updated GND from #PWR036 to #PWR034.
+Updated GND from #PWR037 to #PWR035.
+Updated GND from #PWR038 to #PWR036.
+Updated GND from #PWR039 to #PWR037.
+Updated GND from #PWR05 to #PWR038.
+Updated GND from #PWR04 to #PWR039.
+Updated GND from #PWR01 to #PWR040.
+Updated GND from #PWR045 to #PWR041.
+Updated GND from #PWR052 to #PWR042.
+Updated GND from #PWR053 to #PWR043.
+Updated GND from #PWR046 to #PWR044.
+Updated GND from #PWR041 to #PWR045.
+Updated GND from #PWR042 to #PWR046.
+Updated GND from #PWR034 to #PWR047.
+Updated GND from #PWR044 to #PWR048.
+Updated VDD-SLVS from #PWR057 to #PWR049.
+Updated VDD from #PWR055 to #PWR050.
+Updated VDD-PHY from #PWR056 to #PWR052.
+Updated VDDIO-PHY from #PWR054 to #PWR053.
+Updated VAA-PHY from #PWR050 to #PWR054.
+Updated VAA-PIX from #PWR049 to #PWR055.
+Updated VAA from #PWR048 to #PWR056.
+Updated GND from #PWR058 to #PWR057.
+Updated GND from #PWR032 to #PWR058.
+Updated GND from #PWR040 to #PWR059.
+Updated GND from #PWR035 to #PWR060.
+Updated GND from #PWR047 to #PWR061.
+Updated TLV62569DBVR from B3 to B1.
+Updated TPS63802DLAT from B6 to B2.
+Updated 7712K13 from BT5 to BT1.
+Updated 0.1 µF from C3 to C1.
+Updated 10 µF from C4 to C2.
+Updated 10 µF from C1 to C3.
+Updated 0.1 µF from C5 to C4.
+Updated 0.1 µF from C2 to C5.
+Updated 10 µF from C18 to C6.
+Updated 0.1 µF from C22 to C7.
+Updated 0.1 µF from C31 to C8.
+Updated 1 µF from C32 to C9.
+Updated 10 µF from C6 to C10.
+Updated 0.1 µF from C7 to C11.
+Updated 10 µF from C8 to C12.
+Updated 0.1 µF from C9 to C13.
+Updated 1 µF from C10 to C14.
+Updated 10 µF from C11 to C15.
+Updated 0.1 µF from C12 to C16.
+Updated 4.7 µF from C13 to C17.
+Updated 0.1 µF from C28 to C18.
+Updated 0.1 µF from C29 to C19.
+Updated 0.1 µF from C27 to C20.
+Updated 0.1 µF from C14 to C21.
+Updated 0.1 µF from C26 to C22.
+Updated 0.1 µF from C30 to C23.
+Updated 0.1 µF from C25 to C24.
+Updated 10 µF from C15 to C25.
+Updated 0.1 µF from C24 to C26.
+Updated 0.1 µF from C16 to C27.
+Updated 1 µF from C19 to C28.
+Updated 0.1 µF from C17 to C29.
+Updated 1 µF from C20 to C30.
+Updated 1 µF from C21 to C31.
+Updated 1 µF from C23 to C32.
+Updated 18 pF from C37 to C36.
+Updated 18 pF from C3 to C37.
+Updated 0.1 µF from C40 to C38.
+Updated 0.1 µF from C41 to C39.
+Updated 1 µF from C39 to C40.
+Updated 10 µF from C36 to C41.
+Updated 22 pF from C38 to C42.
+Updated B8B-PH-K-S from J5 to J1.
+Updated PHR-8 from J6 to J2.
+Updated B5B-PH-K-S from J8 to J3.
+Updated PHR-5 from J7 to J4.
+Updated S2B-PH-K-S from J2 to J5.
+Updated PHR-2 from J12 to J6.
+Updated S2B-PH-K-S from J1 to J7.
+Updated PHR-2 from J10 to J8.
+Updated 22 µH from L3 to L1.
+Updated 0.47 µH from L4 to L2.
+Updated AO3400A from Q2 to Q1.
+Updated 0 Ω from R9 to R1.
+Updated 0 Ω from R8 to R2.
+Updated 10 kΩ from R5 to R3.
+Updated 0 Ω from R6 to R4.
+Updated 0 Ω from R7 to R5.
+Updated 4.02 kΩ from R15 to R6.
+Updated 4.02 kΩ from R16 to R7.
+Updated 0 Ω from R1 to R8.
+Updated 0 Ω from R2 to R9.
+Updated 0 Ω from R1 to R12.
+Updated 0 Ω from R2 to R13.
+Updated 10 kΩ from R30 to R14.
+Updated 10 kΩ from R35 to R15.
+Updated 10 kΩ from R28 to R16.
+Updated 10 kΩ from R37 to R17.
+Updated 10 kΩ from R36 to R18.
+Updated 10 kΩ from R32 to R19.
+Updated 10 kΩ from R33 to R20.
+Updated 10 kΩ from R34 to R21.
+Updated 220 Ω from R17 to R22.
+Updated 220 Ω from R26 to R23.
+Updated 100 kΩ from R12 to R24.
+Updated 511 kΩ from R13 to R25.
+Updated 91 kΩ from R14 to R26.
+Updated AR0234 (unit A) from U3A to U2A.
+Updated AR0234 (unit B) from U3B to U2B.
+Updated MX25L3233FM2I-08Q from U2 to U3.
+Annotation complete.

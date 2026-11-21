@@ -699,7 +699,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b6af1e1-a95c-4882-8670-afaef212beec")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR058"
 			(at 137.16 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -759,7 +759,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/1984bcd8-aef8-44a9-a37a-abb8414d1eae"
-					(reference "#PWR032")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -777,7 +777,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d478dc46-3ef5-44d6-88cc-c02aac1a18ea")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 146.05 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -969,7 +969,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/1984bcd8-aef8-44a9-a37a-abb8414d1eae"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)

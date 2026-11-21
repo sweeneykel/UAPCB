@@ -1139,7 +1139,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6b8c1799-bc8f-4828-ba1a-dc65138c99dc")
-		(property "Reference" "R17"
+		(property "Reference" "R22"
 			(at 133.35 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1311,7 +1311,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/f0b7e4d3-5bd2-4010-b651-9388bc56821c"
-					(reference "R17")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -1329,7 +1329,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b342d99f-a749-4b0e-81ad-200a9ec98df6")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR046"
 			(at 134.62 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -1389,7 +1389,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/f0b7e4d3-5bd2-4010-b651-9388bc56821c"
-					(reference "#PWR042")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -1407,7 +1407,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc0bafef-f0b6-4667-83a8-3a25e8058340")
-		(property "Reference" "Q2"
+		(property "Reference" "Q1"
 			(at 138.43 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1429,7 +1429,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ME691footprint:SOT95P280X125-3N"
 			(at 137.16 90.805 0)
 			(hide yes)
 			(show_name no)
@@ -1521,7 +1521,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/f0b7e4d3-5bd2-4010-b651-9388bc56821c"
-					(reference "Q2")
+					(reference "Q1")
 					(unit 1)
 				)
 			)

@@ -1354,7 +1354,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "25c2cad0-ab90-4775-93eb-b51e7aaa803e")
-		(property "Reference" "J8"
+		(property "Reference" "J3"
 			(at 93.726 83.566 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1471,7 +1471,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/0d0cce81-f33a-4d47-8788-12c3212e2d96"
-					(reference "J8")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -1489,7 +1489,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "741fe81e-dba1-4a78-8f08-ec9a507650a6")
-		(property "Reference" "J7"
+		(property "Reference" "J4"
 			(at 135.636 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1606,7 +1606,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/0d0cce81-f33a-4d47-8788-12c3212e2d96"
-					(reference "J7")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -1644,7 +1644,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ME691footprint:OLED"
 			(at 193.04 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -1823,7 +1823,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f817cb6c-870d-42de-aa9c-ac1a8bcea5f6")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR045"
 			(at 86.36 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -1883,7 +1883,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/0d0cce81-f33a-4d47-8788-12c3212e2d96"
-					(reference "#PWR041")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)

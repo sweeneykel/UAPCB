@@ -40053,7 +40053,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3fb6aab5-faf0-4e6b-af07-226f3367da6d")
-		(property "Reference" "R12"
+		(property "Reference" "R24"
 			(at 90.932 90.932 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40225,7 +40225,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "R12")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -40243,7 +40243,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48974506-8970-499d-8678-4cacb8d07209")
-		(property "Reference" "B6"
+		(property "Reference" "B2"
 			(at 66.802 102.108 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40263,7 +40263,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ME691footprint:DLA0010A"
 			(at 44.45 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -40373,7 +40373,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "B6")
+					(reference "B2")
 					(unit 1)
 				)
 			)
@@ -40390,7 +40390,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4bcbff40-9296-4487-9f6f-c0c3f1fc27a5")
-		(property "Reference" "BT5"
+		(property "Reference" "BT1"
 			(at 238.506 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40496,7 +40496,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "BT5")
+					(reference "BT1")
 					(unit 1)
 				)
 			)
@@ -40513,7 +40513,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "56223f73-9b86-436d-addd-aea93b9b068f")
-		(property "Reference" "C38"
+		(property "Reference" "C42"
 			(at 77.978 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40687,7 +40687,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "C38")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -40704,7 +40704,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5fcec592-e2d1-41c9-ad2f-aa01bea966e3")
-		(property "Reference" "R14"
+		(property "Reference" "R26"
 			(at 109.22 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40876,7 +40876,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "R14")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -40894,7 +40894,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "861c43ff-6bfb-4730-a22a-76c445ddc8b7")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR059"
 			(at 50.8 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -40954,7 +40954,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "#PWR040")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -40971,7 +40971,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "abffdf89-d334-4b85-acc1-90e1aec9e0ea")
-		(property "Reference" "L4"
+		(property "Reference" "L2"
 			(at 35.052 94.742 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41143,7 +41143,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "L4")
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -41160,7 +41160,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b1bfead7-75da-4680-8435-3361300bcc2a")
-		(property "Reference" "C36"
+		(property "Reference" "C41"
 			(at 51.308 70.866 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41334,7 +41334,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "C36")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -41352,7 +41352,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4d7f104-e48b-4b86-b0d1-44bcf0bff5ad")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR060"
 			(at 53.34 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -41412,7 +41412,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "#PWR035")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -41430,7 +41430,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b804800b-713e-41bc-80bb-b0c950c1a4db")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR061"
 			(at 77.47 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -41490,7 +41490,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "#PWR047")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -41507,7 +41507,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c23a1c97-3273-482d-a114-ce0a1451596c")
-		(property "Reference" "J1"
+		(property "Reference" "J7"
 			(at 153.162 72.898 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41615,7 +41615,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "J1")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -41633,7 +41633,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c5f6c286-057d-4ac0-bd52-16bfc32fa8d8")
-		(property "Reference" "J10"
+		(property "Reference" "J8"
 			(at 188.976 72.898 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41741,7 +41741,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "J10")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -41758,7 +41758,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e4fcc698-a5b9-48a8-9874-975798339d65")
-		(property "Reference" "R13"
+		(property "Reference" "R25"
 			(at 92.71 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41930,7 +41930,7 @@
 		(instances
 			(project "image-sensor-v2"
 				(path "/5d116f8e-7659-44dd-9445-a35e60e79b2f"
-					(reference "R13")
+					(reference "R25")
 					(unit 1)
 				)
 			)
