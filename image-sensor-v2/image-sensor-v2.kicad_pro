@@ -776,38 +776,18 @@
       },
       {
         "filename": "mcu-v2.kicad_sch",
-        "name": "MCU-v2",
+        "name": "MCU-chip",
         "uuid": "706b8d28-16fe-4e41-be38-9e44a9113fd4"
       },
       {
         "filename": "dc-dc_converter.kicad_sch",
-        "name": "DC-DC_converter",
+        "name": "MCU-components",
         "uuid": "791d1cad-b51e-46dd-bcf7-6d7a8df12659"
       },
       {
-        "filename": "crystal_clock.kicad_sch",
-        "name": "crystal_clock",
-        "uuid": "f54dc6b3-9a4e-4495-b266-282408f2f508"
-      },
-      {
         "filename": "rotary_encoder.kicad_sch",
-        "name": "rotary_encoder",
+        "name": "rotary_and_oled",
         "uuid": "54bd8d4f-0c23-42c5-a688-7b9de0994eba"
-      },
-      {
-        "filename": "screen.kicad_sch",
-        "name": "screen",
-        "uuid": "0d0cce81-f33a-4d47-8788-12c3212e2d96"
-      },
-      {
-        "filename": "led.kicad_sch",
-        "name": "ilumination",
-        "uuid": "f0b7e4d3-5bd2-4010-b651-9388bc56821c"
-      },
-      {
-        "filename": "on_off_switch.kicad_sch",
-        "name": "gpio_conn_on_off_switch",
-        "uuid": "0e4d9688-f49e-4ffe-aad5-8ef5d1310979"
       },
       {
         "filename": "image_device.kicad_sch",
@@ -815,17 +795,12 @@
         "uuid": "c547b6f2-582a-49cc-9387-e71aea70b6ff"
       },
       {
-        "filename": "flash_memory.kicad_sch",
-        "name": "flash_memory",
-        "uuid": "1984bcd8-aef8-44a9-a37a-abb8414d1eae"
-      },
-      {
         "filename": "battery-3.3-stable-rail.kicad_sch",
-        "name": "battery-3.3-stable-rail",
+        "name": "MCU-power",
         "uuid": "5d116f8e-7659-44dd-9445-a35e60e79b2f"
       }
     ],
-    "used_designators": "D1,#PWR1-62,U1-7,C1-42,B1-2,R1-37,SW1,SOG25664B2_M1,S1-3,L1-4,Q1-2,J1-12,MK1,BT1,E1,Y1,H1-3",
+    "used_designators": "#PWR1-70,D1-2,U1-7,C1-46,R1-37,B1-3,SOG25664B2_M1,SW1-2,S1-3,L1-4,Q1-2,J1-12,MK1,BT1-2,E1,Y1-2,H1-3",
     "variants": []
   },
   "sheets": [
@@ -835,43 +810,23 @@
     ],
     [
       "706b8d28-16fe-4e41-be38-9e44a9113fd4",
-      "MCU-v2"
+      "MCU-chip"
     ],
     [
       "791d1cad-b51e-46dd-bcf7-6d7a8df12659",
-      "DC-DC_converter"
+      "MCU-components"
     ],
     [
-      "f54dc6b3-9a4e-4495-b266-282408f2f508",
-      "crystal_clock"
-    ],
-    [
-      "54bd8d4f-0c23-42c5-a688-7b9de0994eba",
-      "rotary_encoder"
-    ],
-    [
-      "0d0cce81-f33a-4d47-8788-12c3212e2d96",
-      "screen"
-    ],
-    [
-      "f0b7e4d3-5bd2-4010-b651-9388bc56821c",
-      "ilumination"
-    ],
-    [
-      "0e4d9688-f49e-4ffe-aad5-8ef5d1310979",
-      "gpio_conn_on_off_switch"
+      "5d116f8e-7659-44dd-9445-a35e60e79b2f",
+      "MCU-power"
     ],
     [
       "c547b6f2-582a-49cc-9387-e71aea70b6ff",
       "img_sens_ARO234"
     ],
     [
-      "1984bcd8-aef8-44a9-a37a-abb8414d1eae",
-      "flash_memory"
-    ],
-    [
-      "5d116f8e-7659-44dd-9445-a35e60e79b2f",
-      "battery-3.3-stable-rail"
+      "54bd8d4f-0c23-42c5-a688-7b9de0994eba",
+      "rotary_and_oled"
     ]
   ],
   "text_variables": {},
